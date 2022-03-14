@@ -1,2 +1,1 @@
-# Windows-dangerous-trojan
-A simple batch file that cause windows blue screen every time startup
+# Damage pc so much don't use or your pc will cause in a infinite loop blue screen

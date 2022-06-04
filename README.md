@@ -1,2 +1,2 @@
-# Damage pc so much don't use or your pc will cause in a infinite loop blue screen
-## also it just work in windows 10 and higher, it not work in other os
+# Damage pc so much don't use or your pc will cause in a infinite loop shutdown
+## Also it just work on windows

